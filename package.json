@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@expo/vector-icons": "6.2.1",
+    "react-native-elements": "0.18.5",
+    "react-native-image-picker": "0.26.7",
+    "tcomb-form-native": "0.6.11"
+  }
+}
